@@ -1,4 +1,4 @@
-# Finals Lab Task 3.1: Using MYSQL CLAUSE
+# Finals Lab Task 4: Using MYSQL CLAUSE
     
 # Step 1: Create the Database
 Open MySQL environment (e.g., MySQL Workbench or phpMyAdmin)
